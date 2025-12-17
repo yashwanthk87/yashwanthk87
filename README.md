@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
 <h3 align="center">A passionate AIML Enthusiast.</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **javascript, ML, Advanced Python.**
 
 - 📫 How to reach me **karmanghatyashwanth@gmail.com**
 
