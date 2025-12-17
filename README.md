@@ -5,7 +5,11 @@
 
 - 📫 How to reach me **karmanghatyashwanth@gmail.com**
 
-<h3 align="left">Connect with me: <a href ="www.linkedin.com/in/karmanghat-yashwanth-1084a0338" Linkedin> </h3>
+<h3 align="left">Connect with me: 
+  <a href="https://www.linkedin.com/in/karmanghat-yashwanth-1084a0338" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" align="center"/>
+  </a>
+</h3>
 <p align="left">
 </p>
 
